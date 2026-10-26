@@ -1,0 +1,9 @@
+{
+ "amin": 0.01,
+ "amax": 0.55,
+ "dmax": 0.2,
+ "qmin": 0.5,
+ "fill": 0.15,
+ "omax": 0.1,
+ "input": "bin"
+}

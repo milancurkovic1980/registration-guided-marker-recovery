@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+work/
+results/*
+!results/scanner/
+results/scanner/*
+!results/scanner/yolo12n_*.json
+!results/scanner/yolo12s_*.json
+!results/scanner/rfdetr_s_*.json

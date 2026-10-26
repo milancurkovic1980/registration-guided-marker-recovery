@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article."
+title: "registration-guided-marker-recovery"
+authors:
+  - family-names: "Ćurković"
+    given-names: "Milan"
+    orcid: "https://orcid.org/0000-0003-0100-7928"
+    affiliation: "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture"
+  - family-names: "Ćurković"
+    given-names: "Andrijana"
+    orcid: "https://orcid.org/0000-0003-2340-5767"
+    affiliation: "University of Split, Faculty of Science"
+repository-code: "https://github.com/milancurkovic1980/registration-guided-marker-recovery"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Registration-Guided Recovery of Markers Lost to Projector Glare in Smartphone Structured-Light Scanning"
+  authors:
+    - family-names: "Ćurković"
+      given-names: "Milan"
+    - family-names: "Ćurković"
+      given-names: "Andrijana"
+  journal: "Optics and Lasers in Engineering"
+  year: 2026
+  notes: "Submitted"
